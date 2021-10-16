@@ -1,0 +1,19 @@
+{
+  "name": "node_tutorial",
+  "version": "1.0.0",
+  "description": "Node tutorial. Basic node js concepts and stuff. For learning purpose",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shravankumartalabhaktula/shravan-node-tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shravankumartalabhaktula/shravan-node-tutorial/issues"
+  },
+  "homepage": "https://github.com/shravankumartalabhaktula/shravan-node-tutorial#readme"
+}
